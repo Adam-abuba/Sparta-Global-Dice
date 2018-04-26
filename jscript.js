@@ -13,4 +13,4 @@ var ClickToRoll = document.getElementById('button');
 ClickToRoll.onclick = function() {
   var rollResult = dice.roll();
   displayNumber(rollResult);
-}
+} //complete
